@@ -22,7 +22,7 @@
 - :dart: Highly focused on achievable goals, milestones and projects.
 - :tennis: I enjoy playing lawn tennis.
 - :high_heel: A fashion lover.
-- :heavy_check_mark::muscle: zero deadline rush.
+- :heavy_check_mark::muscle: zero rush.
 
 <!-- My skills -->
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Here's a little more about me...  
